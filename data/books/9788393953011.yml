@@ -1,0 +1,17 @@
+title: "Nawyki 2.0 Jak zmienić swoje życie bez silnej woli"
+authors:
+  - Maciej Wieczorek
+formats:
+  - book
+  - ebook
+categories:
+  - Poradniki
+book:
+  isbn: 9788393953011
+  image: books/nawyki-2-0.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4800210/nawyki-2-0-jak-zmienic-swoje-zycie-bez-silnej-woli
+ebook:
+  image: books/nawyki-2-0.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4800210/nawyki-2-0-jak-zmienic-swoje-zycie-bez-silnej-woli

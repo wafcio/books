@@ -1,0 +1,28 @@
+title: "Pokonaj stres z Kaizen"
+authors:
+  - Jarosław Gibas
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Motywacja
+  - Coaching
+  - Rozwój osobisty
+book:
+  isbn: 9788324679010
+  image: books/pokosk.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/pokonaj-stres-z-kaizen-jaroslaw-gibas,pokosk.htm#format/d
+ebook:
+  isbn: 9788324692651
+  image: books/pokosk.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/pokonaj-stres-z-kaizen-jaroslaw-gibas,pokosk.htm#format/e
+audiobook:
+  isbn: 9788328303089
+  image: books/pokosk_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/pokonaj-stres-z-kaizen-jaroslaw-gibas,pokosk.htm#format/3

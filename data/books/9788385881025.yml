@@ -1,0 +1,26 @@
+title: "Jak przestać się martwić i zacząć żyć"
+original_title: "How to Stop Worrying and Start Living"
+authors:
+  - Dale Carnegie
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Motywacja
+  - Rozwój osobisty
+book:
+  isbn: 9788385881025
+  image: books/e_580z.jpeg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/17348/jak-przestac-sie-martwic-i-zaczac-zyc
+ebook:
+  isbn: 9788363773991
+  image: books/e_580z.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-przestac-sie-martwic-i-zaczac-zyc-dale-carnegie,e_580z.htm#format/e
+audiobook:
+  isbn: 9788362304783
+  image: books/e_580z_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-przestac-sie-martwic-i-zaczac-zyc-dale-carnegie,e_580z.htm#format/3

@@ -1,0 +1,25 @@
+title: "Wszystko pod kontrolą. Gra w pracę i biznes zwany życiem"
+original_title: "Making It All Work: Winning at the Game of Work and the Business of Life"
+authors:
+  - David Allen
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Kompetencje osobiste
+book:
+  isbn: 9788328340077
+  image: books/wszyst.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/wszystko-pod-kontrola-gra-w-prace-i-biznes-zwany-zyciem-david-allen,wszyst.htm#format/d
+ebook:
+  isbn: 9788328340084
+  image: books/wszyst.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/wszystko-pod-kontrola-gra-w-prace-i-biznes-zwany-zyciem-david-allen,wszyst.htm#format/e
+audiobook:
+  isbn: 9788328340435
+  image: books/wszyst_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/wszystko-pod-kontrola-gra-w-prace-i-biznes-zwany-zyciem-david-allen,wszyst.htm#format/3

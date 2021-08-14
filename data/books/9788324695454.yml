@@ -1,0 +1,27 @@
+title: "Przejmij kontrolę nad swoim życiem. Przewodnik po NLP"
+original_title: "How to Take Charge of Your Life: The User's Guide to NLP"
+authors:
+  - Richard Bandler
+  - Owen Fitzpatrick
+  - Alessio Roberti
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Perswazja i NLP
+book:
+  isbn: 9788324695454
+  image: books/prkont.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/przejmij-kontrole-nad-swoim-zyciem-przewodnik-po-nlp-richard-bandler-owen-fitzpatrick-alessio-robert,prkont.htm#format/d
+ebook:
+  isbn: 9788324695461
+  image: books/prkont.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/przejmij-kontrole-nad-swoim-zyciem-przewodnik-po-nlp-richard-bandler-owen-fitzpatrick-alessio-robert,prkont.htm#format/e
+audiobook:
+  isbn: 9788328300422
+  image: books/prkont_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/przejmij-kontrole-nad-swoim-zyciem-przewodnik-po-nlp-richard-bandler-owen-fitzpatrick-alessio-robert,prkont.htm#format/3

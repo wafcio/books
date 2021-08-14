@@ -1,0 +1,30 @@
+title: "Przedsiębiorczość. Jak założyć i rozwijać własną firmę"
+original_title: "Entrepreneurship: How to Start and Grow Your Own Business"
+authors:
+  - Brian Tracy
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - E-biznes
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Zarządzanie
+  - Motywacja
+  - Rozwój osobisty
+book:
+  isbn: 9788328370210
+  image: books/przjak.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/przedsiebiorczosc-jak-zalozyc-i-rozwijac-wlasna-firme-brian-tracy,przjak.htm#format/d
+ebook:
+  isbn: 9788328370227
+  image: books/przjak.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/przedsiebiorczosc-jak-zalozyc-i-rozwijac-wlasna-firme-brian-tracy,przjak.htm#format/e
+audiobook:
+  isbn: 9788328382022
+  image: books/przjak_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/przedsiebiorczosc-jak-zalozyc-i-rozwijac-wlasna-firme-brian-tracy,przjak.htm#format/3

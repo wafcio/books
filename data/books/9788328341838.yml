@@ -1,0 +1,27 @@
+title: "Rework"
+original_title: "Rework"
+authors:
+  - Jason Fried
+  - David Heinemeier Hansson
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Zarządzanie
+book:
+  isbn: 9788328341838
+  image: books/reworv.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/rework-jason-fried-david-heinemeier-hansson,reworv.htm#format/d
+ebook:
+  isbn: 9788328341845
+  image: books/reworv.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/rework-jason-fried-david-heinemeier-hansson,reworv.htm#format/e
+audiobook:
+  isbn: 9788328341852
+  image: books/reworv_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/rework-jason-fried-david-heinemeier-hansson,reworv.htm#format/3

@@ -1,0 +1,25 @@
+title: "Psychologia szefa 3. Zrozumieć zespół. Fenomen małej grupy"
+authors:
+  - Wojciech Haman
+  - Jerzy Gut
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Zarządzanie
+book:
+  isbn: 9788328339804
+  image: books/psy3fe.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/psychologia-szefa-3-zrozumiec-zespol-fenomen-malej-grupy-wojciech-haman-jerzy-gut,psy3fe.htm#format/d
+ebook:
+  isbn: 9788328356115
+  image: books/psy3fe.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/psychologia-szefa-3-zrozumiec-zespol-fenomen-malej-grupy-wojciech-haman-jerzy-gut,psy3fe.htm#format/e
+audiobook:
+  isbn: 9788328355415
+  image: books/psy3fe_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/psychologia-szefa-3-zrozumiec-zespol-fenomen-malej-grupy-wojciech-haman-jerzy-gut,psy3fe.htm#format/3

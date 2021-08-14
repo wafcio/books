@@ -1,0 +1,26 @@
+title: "Kiedy odwlekasz i narzekasz... 102 sposoby na pokonanie prokrastynacji"
+authors:
+  - Barbara Lech
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Kompetencje osobiste
+  - Motywacja
+  - Rozwój osobisty
+book:
+  isbn: 9788328373327
+  image: books/odwpro.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/dobre-nawyki-zakochaj-sie-w-zyciu-na-nowo-magdalena-kuszewska,prosna.htm#format/d
+ebook:
+  isbn: 9788328382473
+  image: books/odwpro.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/dobre-nawyki-zakochaj-sie-w-zyciu-na-nowo-magdalena-kuszewska,prosna.htm#format/e
+audiobook:
+  isbn: 9788328381339
+  image: books/odwpro_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/dobre-nawyki-zakochaj-sie-w-zyciu-na-nowo-magdalena-kuszewska,prosna.htm#format/3

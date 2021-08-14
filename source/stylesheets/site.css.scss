@@ -1,24 +1,53 @@
 body {
-  background-color: #fbc547;
-  color: #333;
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
-    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
-    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
-    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
-  padding: 18vh 1rem;
-  text-align: center;
+  color: #2c2c2c;
 }
 
-a {
-  color: rgba(#000, 0.7);
-
-  &:focus,
-  &:hover {
-    color: rgba(#000, 0.6);
-  }
+.page-title {
+  padding: 10px 0;
 }
 
-.middleman-logo {
-  margin-bottom: 1rem;
-  width: 10rem;
+.page-title h1 {
+  border-bottom: 1px solid #dfdfdf;
+  padding: 0 0 10px;
+
+  font-size: 30px;
+  font-weight: 400;
+}
+
+p.title {
+  font-weight: bold;
+  margin-bottom: .5rem;
+}
+
+.list-group-item {
+  border: 0;
+  padding: .25rem .5rem;
+}
+
+.list-group-item:hover {
+  background-color: #fff;
+  color: #2c2c2c;
+}
+
+.card-title {
+  font-size: .8rem;
+}
+
+.book-icon,
+.ebook-icon,
+.audiobook-icon {
+  padding: 0 2px;
+}
+
+.book-icon svg,
+.ebook-icon svg,
+.audiobook-icon svg {
+  width: 20px;
+  fill: #999;
+}
+
+.book-icon.active svg,
+.ebook-icon.active svg,
+.audiobook-icon.active svg {
+  fill: #0d5286;
 }

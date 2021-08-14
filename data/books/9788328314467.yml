@@ -1,0 +1,21 @@
+title: "Wzór na sukces. Wyrób w sobie dobre nawyki"
+authors:
+  - Judith Williamson
+  - Dr. J.B. Hill
+formats:
+  - book
+  - ebook
+categories:
+  - Kompetencje osobiste
+  - Przywództwo
+  - Motywacja
+book:
+  isbn: 9788328314467
+  image: books/wzosuk.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/wzor-na-sukces-wyrob-w-sobie-dobre-nawyki-przedmowa-i-wybor-tekstow-judith-williamson-wste,wzosuk.htm#format/d
+ebook:
+  isbn: 9788328314498
+  image: books/wzosuk.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/wzor-na-sukces-wyrob-w-sobie-dobre-nawyki-przedmowa-i-wybor-tekstow-judith-williamson-wste,wzosuk.htm#format/e

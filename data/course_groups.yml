@@ -1,0 +1,10 @@
+---
+- name: Akademia.pl
+  slug: akademia-pl
+  image: course_groups/akademia-pl.jpg
+- name: devstyle.pl
+  slug: devstyle-pl
+  image: course_groups/devstyle-pl.png
+- name: SzkolaChmury.pl
+  slug: szkola-chmury-pl
+  image: course_groups/szkolachmury-pl.jpg

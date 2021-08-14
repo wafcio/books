@@ -1,0 +1,28 @@
+title: "Zarabiaj więcej pieniędzy"
+original_title: "Make More Money"
+authors:
+  - Brian Tracy
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Motywacja
+  - Rozwój osobisty
+book:
+  isbn: 9788328370234
+  image: books/zawiep.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zarabiaj-wiecej-pieniedzy-brian-tracy,zawiep.htm#format/d
+ebook:
+  isbn: 9788328370258
+  image: books/zawiep.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zarabiaj-wiecej-pieniedzy-brian-tracy,zawiep.htm#format/e
+audiobook:
+  isbn: 9788328378667
+  image: books/zawiep_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zarabiaj-wiecej-pieniedzy-brian-tracy,zawiep.htm#format/3

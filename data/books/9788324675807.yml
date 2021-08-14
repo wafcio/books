@@ -1,0 +1,24 @@
+title: "Schudnij z Kaizen"
+authors:
+  - Jarosław Gibas
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Kompetencje osobiste
+book:
+  isbn: 9788324675807
+  image: books/pokoty.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/schudnij-z-kaizen-jaroslaw-gibas,pokoty.htm#format/d
+ebook:
+  isbn: 9788324680061
+  image: books/pokoty.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/schudnij-z-kaizen-jaroslaw-gibas,pokoty.htm#format/e
+audiobook:
+  isbn: 9788324681570
+  image: books/pokoty_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/schudnij-z-kaizen-jaroslaw-gibas,pokoty.htm#format/3

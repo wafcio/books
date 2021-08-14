@@ -1,0 +1,27 @@
+title: "Podręcznik startupu. Budowa wielkiej firmy krok po kroku"
+original_title: "The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company"
+authors:
+  - Steve Blank
+  - Bob Dorf
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - E-biznes
+  - Start-up
+book:
+  isbn: 9788324666164
+  image: books/podsta.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/podrecznik-startupu-budowa-wielkiej-firmy-krok-po-kroku-steve-blank-bob-dorf,podsta.htm#format/d
+ebook:
+  isbn: 9788324666171
+  image: books/podsta.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/podrecznik-startupu-budowa-wielkiej-firmy-krok-po-kroku-steve-blank-bob-dorf,podsta.htm#format/e
+audiobook:
+  isbn: 9788328339095
+  image: books/podsta_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/podrecznik-startupu-budowa-wielkiej-firmy-krok-po-kroku-steve-blank-bob-dorf,podsta.htm#format/3

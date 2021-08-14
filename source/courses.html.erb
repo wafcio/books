@@ -1,0 +1,17 @@
+---
+title: Kursy - Książki i kursy
+layout: course_layout
+---
+
+<div class="row">
+  <% courses_by_group(group).each do |course| %>
+    <div class="col-md-4 col-sm-6 px-1 py-1">
+      <div class="card">
+        <%= link_to image_tag(course.image, class: "card-img-top"), course.url, target: "_blank" %>
+        <div class="card-body">
+          <h5 class="card-title"><%= course.title %></h5>
+        </div>
+      </div>
+    </div>
+  <% end %>
+</div>

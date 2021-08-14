@@ -1,0 +1,28 @@
+title: "Zaczynaj od DLACZEGO. Jak wielcy liderzy inspirują innych do działania"
+original_title: "Start with Why: How Great Leaders Inspire Everyone to Take Action"
+authors:
+  - Simon Sinek
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Kompetencje osobiste
+  - Zarządzanie
+  - Zasoby ludzkie (HR)
+  - Przywództwo
+book:
+  isbn: 9788328344549
+  image: books/zadlav.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zaczynaj-od-dlaczego-jak-wielcy-liderzy-inspiruja-innych-do-dzialania-simon-sinek,zadlav.htm#format/d
+ebook:
+  isbn: 9788328344556
+  image: books/zadlav.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zaczynaj-od-dlaczego-jak-wielcy-liderzy-inspiruja-innych-do-dzialania-simon-sinek,zadlav.htm#format/e
+audiobook:
+  isbn: 9788328344563
+  image: books/zadlav_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zaczynaj-od-dlaczego-jak-wielcy-liderzy-inspiruja-innych-do-dzialania-simon-sinek,zadlav.htm#format/3

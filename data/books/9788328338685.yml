@@ -1,0 +1,27 @@
+title: "Finansowy kozak. Zarabiaj, ile chcesz, i spełniaj marzenia"
+original_title: "You Are a Badass at Making Money: Master the Mindset of Wealth"
+authors:
+  - Jen Sincero
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Motywacja
+book:
+  isbn: 9788328338685
+  image: books/finkoz.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/finansowy-kozak-zarabiaj-ile-chcesz-i-spelniaj-marzenia-jen-sincero,finkoz.htm#format/d
+ebook:
+  isbn: 9788328338692
+  image: books/finkoz.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/finansowy-kozak-zarabiaj-ile-chcesz-i-spelniaj-marzenia-jen-sincero,finkoz.htm#format/e
+audiobook:
+  isbn: 9788328338784
+  image: books/finkoz_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/finansowy-kozak-zarabiaj-ile-chcesz-i-spelniaj-marzenia-jen-sincero,finkoz.htm#format/3

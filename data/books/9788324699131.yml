@@ -1,0 +1,19 @@
+title: "Opanować czas"
+authors:
+  - Arkadiusz Bednarski
+formats:
+  - book
+  - ebook
+categories:
+  - Kompetencje osobiste
+  - Zarządzanie
+book:
+  isbn: 9788324699131
+  image: books/opacza.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/opanowac-czas-arkadiusz-bednarski,opacza.htm#format/d
+ebook:
+  isbn: 9788328312777
+  image: books/opacza.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/opanowac-czas-arkadiusz-bednarski,opacza.htm#format/e

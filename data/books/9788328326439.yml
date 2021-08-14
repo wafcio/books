@@ -1,0 +1,25 @@
+title: "Filozofia Kaizen. Jak mały krok może zmienić Twoje życie"
+original_title: "One Small Step Can Change Your Life: The Kaizen Way"
+authors:
+  - Maurer Robert
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Rozwój osobisty
+book:
+  isbn: 9788328326439
+  image: books/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie.jpg
+  urls:
+    helion: https://helion.pl/ksiazki/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie-robert-maurer,filokv.htm#format/d
+ebook:
+  isbn: 9788328348783
+  image: books/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie.jpg
+  urls:
+    helion: https://helion.pl/ksiazki/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie-robert-maurer,filokv.htm#format/e
+audiobook:
+  isbn: 9788324675531
+  image: books/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie_3.jpg
+  urls:
+    helion: https://helion.pl/ksiazki/filozofia-kaizen-jak-maly-krok-moze-zmienic-twoje-zycie-robert-maurer,filokv.htm#format/a

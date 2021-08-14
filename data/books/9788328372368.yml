@@ -1,0 +1,25 @@
+title: "Techniki negocjacji i wywierania wpływu"
+authors:
+  - Michał Chmielecki
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Komunikacja i negocjacje
+  - Kompetencje osobiste
+book:
+  isbn: 9788328372368
+  image: books/tenewy.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/techniki-negocjacji-i-wywierania-wplywu-michal-chmielecki,tenewy.htm#format/d
+ebook:
+  isbn: 9788328376168
+  image: books/tenewy.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/techniki-negocjacji-i-wywierania-wplywu-michal-chmielecki,tenewy.htm#format/e
+audiobook:
+  isbn: 9788328375994
+  image: books/tenewy_3.png
+  urls:
+    onepress: https://onepress.pl/ksiazki/techniki-negocjacji-i-wywierania-wplywu-michal-chmielecki,tenewy.htm#format/3

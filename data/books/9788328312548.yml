@@ -1,0 +1,26 @@
+title: "Getting Things Done, czyli sztuka bezstresowej efektywności. Wydanie II"
+original_title: "Getting Things Done: The Art of Stress-Free Productivity (Revised Edition)"
+authors:
+  - David Allen
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+book:
+  isbn: 9788328312548
+  image: books/getti2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/getting-things-done-czyli-sztuka-bezstresowej-efektywnosci-wydanie-ii-david-allen,getti2.htm#format/d
+ebook:
+  isbn: 9788328312579
+  image: books/getti2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/getting-things-done-czyli-sztuka-bezstresowej-efektywnosci-wydanie-ii-david-allen,getti2.htm#format/e
+audiobook:
+  isbn: 9788328323353
+  image: books/getti2_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/getting-things-done-czyli-sztuka-bezstresowej-efektywnosci-wydanie-ii-david-allen,getti2.htm#format/3

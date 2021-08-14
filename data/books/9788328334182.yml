@@ -1,0 +1,26 @@
+title: "Szef, który ma czas. Ewolucja zarządzania - dziennik budowy turkusowej firmy"
+authors:
+  - Andrzej Jeznach
+  - Wojciech Eichelberger
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Zarządzanie
+  - Przywództwo
+book:
+  isbn: 9788328334182
+  image: books/prasen.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szef-ktory-ma-czas-ewolucja-zarzadzania-dziennik-budowy-turkusowej-firmy-andrzej-jeznach-wspolpraca-wojciech-eichelberger,prasen.htm#format/d
+ebook:
+  isbn: 9788328336025
+  image: books/prasen.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szef-ktory-ma-czas-ewolucja-zarzadzania-dziennik-budowy-turkusowej-firmy-andrzej-jeznach-wspolpraca-wojciech-eichelberger,prasen.htm#format/e
+audiobook:
+  isbn: 9788328346284
+  image: books/prasen_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szef-ktory-ma-czas-ewolucja-zarzadzania-dziennik-budowy-turkusowej-firmy-andrzej-jeznach-wspolpraca-wojciech-eichelberger,prasen.htm#format/3

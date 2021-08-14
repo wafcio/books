@@ -1,0 +1,25 @@
+title: "Praktyczny poradnik networkingu. Zbuduj sieć trwałych kontaktów biznesowych. Wydanie II rozszerzone"
+authors:
+  - Grzegorz Turniak
+  - Witold Antosiewicz
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Kompetencje osobiste
+book:
+  isbn: 9788328324633
+  image: books/prapo2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/praktyczny-poradnik-networkingu-zbuduj-siec-trwalych-kontaktow-biznesowych-wydanie-ii-rozszerzone-grzegorz-turniak-witold-antosiewicz,prapo2.htm#format/d
+ebook:
+  isbn: 9788328346666
+  image: books/prapo2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/praktyczny-poradnik-networkingu-zbuduj-siec-trwalych-kontaktow-biznesowych-wydanie-ii-rozszerzone-grzegorz-turniak-witold-antosiewicz,prapo2.htm#format/e
+audiobook:
+  isbn: 9788328363380
+  image: books/prapo2_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/praktyczny-poradnik-networkingu-zbuduj-siec-trwalych-kontaktow-biznesowych-wydanie-ii-rozszerzone-grzegorz-turniak-witold-antosiewicz,prapo2.htm#format/3

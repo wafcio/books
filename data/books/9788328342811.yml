@@ -1,0 +1,27 @@
+title: "Szkoła Mówców. Myśl i prezentuj inaczej niż wszyscy"
+authors:
+  - Lidia Buksak
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Komunikacja i negocjacje
+  - Perswazja i NLP
+  - Kompetencje osobiste
+  - Prezentacje
+book:
+  isbn: 9788328342811
+  image: books/szkomo.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szkola-mowcow-mysl-i-prezentuj-inaczej-niz-wszyscy-lidia-buksak,szkomo.htm#format/d
+ebook:
+  isbn: 9788328352247
+  image: books/szkomo.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szkola-mowcow-mysl-i-prezentuj-inaczej-niz-wszyscy-lidia-buksak,szkomo.htm#format/e
+audiobook:
+  isbn: 9788328344723
+  image: books/techl2_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szkola-mowcow-mysl-i-prezentuj-inaczej-niz-wszyscy-lidia-buksak,szkomo.htm#format/3

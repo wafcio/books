@@ -1,0 +1,29 @@
+title: "Zrób to teraz! Przejmij kontrolę nad swoim czasem i życiem"
+original_title: "Get it Done Now!: Own Your Time, Take Back Your Life"
+authors:
+  - Brian Tracy
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Zarządzanie
+  - Motywacja
+  - Rozwój osobisty
+book:
+  isbn: 9788328374577
+  image: books/zrtote.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zrob-to-teraz-przejmij-kontrole-nad-swoim-czasem-i-zyciem-brian-tracy,zrtote.htm#format/d
+ebook:
+  isbn: 9788328374614
+  image: books/zrtote.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zrob-to-teraz-przejmij-kontrole-nad-swoim-czasem-i-zyciem-brian-tracy,zrtote.htm#format/e
+audiobook:
+  isbn: 9788328374621
+  image: books/zrtote_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zrob-to-teraz-przejmij-kontrole-nad-swoim-czasem-i-zyciem-brian-tracy,zrtote.htm#format/3

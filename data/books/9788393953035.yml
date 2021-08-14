@@ -1,0 +1,17 @@
+title: "48-godzinna doba"
+authors:
+  - Maciej Wieczorek
+formats:
+  - book
+  - ebook
+categories:
+  - Poradniki
+book:
+  isbn: 9788393953035
+  image: books/48-godzinna-doba.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4942273/48--godzinna-doba
+ebook:
+  image: books/48-godzinna-doba.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4942273/48--godzinna-doba

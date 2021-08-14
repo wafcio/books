@@ -1,0 +1,25 @@
+title: "Work-life balance"
+authors:
+  - Aneta Wątor
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+book:
+  isbn: 9788328360006
+  image: books/woliba.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/work-life-balance-jak-znalezc-rownowage-w-duchu-kaizen-aneta-wator,woliba.htm#format/d
+ebook:
+  isbn: 9788328370517
+  image: books/woliba.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/work-life-balance-jak-znalezc-rownowage-w-duchu-kaizen-aneta-wator,woliba.htm#format/e
+audiobook:
+  isbn: 9788328369795
+  image: books/woliba_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/work-life-balance-jak-znalezc-rownowage-w-duchu-kaizen-aneta-wator,woliba.htm#format/3

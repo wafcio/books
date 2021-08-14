@@ -1,0 +1,17 @@
+title: "Inteligentny Inwestor XXI wieku Tom III"
+authors:
+  - Cezary Głuch
+formats:
+  - book
+  - ebook
+categories:
+  - Poradniki
+book:
+  isbn: 9788395645235
+  image: books/inteligentny-inwestor-3.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4914571/inteligentny-inwestor-xxi-wieku---tom-iii
+ebook:
+  image: books/inteligentny-inwestor-3.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4914571/inteligentny-inwestor-xxi-wieku---tom-iii

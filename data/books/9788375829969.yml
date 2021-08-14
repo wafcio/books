@@ -1,0 +1,24 @@
+title: "Prawa sukcesu. Tom VII i Tom VIII"
+original_title: "The Law Of Success"
+authors:
+  - Napoleon Hill
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Rozwój osobisty
+book:
+  isbn: 9788375829969
+  image: books/a_03no.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/prawa-sukcesu-tom-vii-i-tom-viii-napoleon-hill,a_03no.htm#format/d
+ebook:
+  image: books/a_03no.jpeg
+  urls:
+    onepress: "#"
+audiobook:
+  isbn: 9788375829976
+  image: books/e_017k_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/prawa-sukcesu-tom-vii-i-tom-viii-napoleon-hill,e_017k.htm#format/3

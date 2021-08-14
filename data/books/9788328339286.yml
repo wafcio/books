@@ -1,0 +1,25 @@
+title: "Droga Startupu. Metoda sukcesu"
+original_title: "The Startup Way"
+authors:
+  - Eric Ries
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Start-up
+book:
+  isbn: 9788328339286
+  image: books/drosta.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/droga-startupu-metoda-sukcesu-eric-ries,drosta.htm#format/d
+ebook:
+  isbn: 9788328339293
+  image: books/drosta.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/droga-startupu-metoda-sukcesu-eric-ries,drosta.htm#format/e
+audiobook:
+  isbn: 9788328344136
+  image: books/drosta_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/droga-startupu-metoda-sukcesu-eric-ries,drosta.htm#format/3

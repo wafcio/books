@@ -1,0 +1,24 @@
+title: "Scrum. O zwinnym zarządzaniu projektami. Wydanie II rozszerzone"
+authors:
+  - Mariusz Chrapko
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Zarządzanie projektami
+book:
+  isbn: 9788324625192
+  image: books/scrum2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/scrum-o-zwinnym-zarzadzaniu-projektami-wydanie-ii-rozszerzone-mariusz-chrapko,scrum2.htm#format/d
+ebook:
+  isbn: 9788328306639
+  image: books/scrum2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/scrum-o-zwinnym-zarzadzaniu-projektami-wydanie-ii-rozszerzone-mariusz-chrapko,scrum2.htm#format/e
+audiobook:
+  isbn: 9788328369313
+  image: books/scrum2_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/scrum-o-zwinnym-zarzadzaniu-projektami-wydanie-ii-rozszerzone-mariusz-chrapko,scrum2.htm#format/3

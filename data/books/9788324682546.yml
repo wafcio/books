@@ -1,0 +1,28 @@
+title: "Zen To Done. Proste sposoby na zwiększenie efektywności"
+original_title: "Zen To Done: The Ultimate Simple Productivity System"
+authors:
+  - Leo Babauta
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Zarządzanie
+  - Motywacja
+book:
+  isbn: 9788324682546
+  image: books/zentod.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zen-to-done-proste-sposoby-na-zwiekszenie-efektywnosci-leo-babauta,zentod.htm#format/d
+ebook:
+  isbn: 9788324682553
+  image: books/zentod.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zen-to-done-proste-sposoby-na-zwiekszenie-efektywnosci-leo-babauta,zentod.htm#format/e
+audiobook:
+  isbn: 9788328372191
+  image: books/zentod_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zen-to-done-proste-sposoby-na-zwiekszenie-efektywnosci-leo-babauta,zentod.htm#format/3

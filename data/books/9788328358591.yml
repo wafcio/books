@@ -1,0 +1,25 @@
+title: "Personal branding, czyli jak skutecznie zbudować autentyczną markę osobistą"
+authors:
+  - Mateusz Grzesiak
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Rozwój osobisty
+book:
+  isbn: 9788328358591
+  image: books/27krok.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/personal-branding-czyli-jak-skutecznie-zbudowac-autentyczna-marke-osobista-mateusz-grzesiak,27krok.htm#format/d
+ebook:
+  isbn: 9788328364295
+  image: books/27krok.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/personal-branding-czyli-jak-skutecznie-zbudowac-autentyczna-marke-osobista-mateusz-grzesiak,27krok.htm#format/e
+audiobook:
+  isbn: 9788328370074
+  image: books/27krok_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/personal-branding-czyli-jak-skutecznie-zbudowac-autentyczna-marke-osobista-mateusz-grzesiak,27krok.htm#format/3

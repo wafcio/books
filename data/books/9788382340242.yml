@@ -1,0 +1,22 @@
+title: "Chorzy ze stresu. Problemy psychosomatyczne"
+authors:
+  - Ewa Kempisty-Jeznach
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Poradniki
+book:
+  isbn: 9788382340242
+  image: books/chorzy-ze-stresu.jpg
+  urls:
+    woblink: https://woblink.com/ksiazka/chorzy-ze-stresu-problemy-psychosomatyczne-ewa-kempisty-jeznach-200809
+ebook:
+  image: books/chorzy-ze-stresu.jpg
+  urls:
+    woblink: https://woblink.com/ebook/chorzy-ze-stresu-ewa-kempisty-jeznach-204781u
+audiobook:
+  image: books/chorzy-ze-stresu_3.jpeg
+  urls:
+    woblink: https://woblink.com/audiobook/chorzy-ze-stresu-ewa-kempisty-jeznach-203733

@@ -1,0 +1,27 @@
+title: "Stwórz jednorożca. Od idei po startup wart miliony. Wydanie II rozszerzone"
+authors:
+  - Grzegorz Kubera
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Ekonomia
+  - Finanse
+  - Zarządzanie projektami
+  - Start-up
+book:
+  isbn: 9788328364783
+  image: books/stwje2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/stworz-jednorozca-od-idei-po-startup-wart-miliony-wydanie-ii-rozszerzone-grzegorz-kubera,stwje2.htm#format/d
+ebook:
+  isbn: 9788328377639
+  image: books/stwje2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/stworz-jednorozca-od-idei-po-startup-wart-miliony-wydanie-ii-rozszerzone-grzegorz-kubera,stwje2.htm#format/e
+audiobook:
+  isbn: 9788328377905
+  image: books/stwje2_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/stworz-jednorozca-od-idei-po-startup-wart-miliony-wydanie-ii-rozszerzone-grzegorz-kubera,stwje2.htm#format/3

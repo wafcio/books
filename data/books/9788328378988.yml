@@ -1,0 +1,25 @@
+title: "Szef, którego szukamy. Rzecz o odpowiedzialności"
+authors:
+  - Andrzej Jeznach
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Zarządzanie
+  - Zarządzanie projektami
+book:
+  isbn: 9788328378988
+  image: books/szefkt.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szef-ktorego-szukamy-rzecz-o-odpowiedzialnosci-andrzej-jeznach,szefkt.htm#format/d
+ebook:
+  isbn: 9788328380998
+  image: books/szefkt.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szef-ktorego-szukamy-rzecz-o-odpowiedzialnosci-andrzej-jeznach,szefkt.htm#format/e
+audiobook:
+  isbn: 9788328381087
+  image: books/szefkt_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szef-ktorego-szukamy-rzecz-o-odpowiedzialnosci-andrzej-jeznach,szefkt.htm#format/3

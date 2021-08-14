@@ -1,0 +1,26 @@
+title: "Szef, który myśli, bo warto i się opłaca"
+authors:
+  - Andrzej Jeznach
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Kompetencje osobiste
+  - Zarządzanie
+  - Przywództwo
+book:
+  isbn: 9788328349995
+  image: books/szefmy.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szef-ktory-mysli-bo-warto-i-sie-oplaca-andrzej-jeznach,szefmy.htm#format/d
+ebook:
+  isbn: 9788328352407
+  image: books/szefmy.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szef-ktory-mysli-bo-warto-i-sie-oplaca-andrzej-jeznach,szefmy.htm#format/e
+audiobook:
+  isbn: 9788328357297
+  image: books/szefmy_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/szef-ktory-mysli-bo-warto-i-sie-oplaca-andrzej-jeznach,szefmy.htm#format/3

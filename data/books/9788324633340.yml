@@ -1,0 +1,25 @@
+title: "Zakamarki marki. Rzeczy, o których mogłeś nie wiedzieć, zapomnieć lub pominąć podczas budowania swojej marki"
+authors:
+  - Paweł Tkaczyk
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Marketing
+  - Zarządzanie
+book:
+  isbn: 9788324633340
+  image: books/markaw.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swoj-pawel-tkaczyk,markaw.htm#format/d
+ebook:
+  isbn: 9788324637454
+  image: books/markaw.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swoj-pawel-tkaczyk,markaw.htm#format/e
+audiobook:
+  isbn: 9788324650910
+  image: books/markaw_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zakamarki-marki-rzeczy-o-ktorych-mogles-nie-wiedziec-zapomniec-lub-pominac-podczas-budowania-swoj-pawel-tkaczyk,markaw.htm#format/3

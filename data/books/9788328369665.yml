@@ -1,0 +1,20 @@
+title: "Kanban"
+original_title: "Kanban in Action"
+authors:
+  - Marcus Hammarberg
+  - Joakim Sunden
+formats:
+  - book
+  - ebook
+categories:
+  - Zarządzanie projektami
+book:
+  isbn: 9788328369665
+  image: books/kanbav.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/kanban-marcus-hammarberg-joakim-sunden,kanbav.htm#format/d
+ebook:
+  isbn: 9788328369672
+  image: books/kanbav.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/kanban-marcus-hammarberg-joakim-sunden,kanbav.htm#format/e

@@ -1,0 +1,27 @@
+title: "REMOTE. Pracuj zdalnie, biuro jest zbędne"
+original_title: "Remote: Office Not Required"
+authors:
+  - Jason Fried
+  - David Heinemeier Hansson
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - E-biznes
+  - Zasoby ludzkie (HR)
+book:
+  isbn: 9788328341678
+  image: books/remote.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/remote-pracuj-zdalnie-biuro-jest-zbedne-jason-fried-david-heinemeier-hansson,remote.htm#format/d
+ebook:
+  isbn: 9788328341685
+  image: books/remote.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/remote-pracuj-zdalnie-biuro-jest-zbedne-jason-fried-david-heinemeier-hansson,remote.htm#format/e
+audiobook:
+  isbn: 9788328341814
+  image: books/remote_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/remote-pracuj-zdalnie-biuro-jest-zbedne-jason-fried-david-heinemeier-hansson,remote.htm#format/3

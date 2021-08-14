@@ -1,0 +1,25 @@
+title: "Jak to powiedzieć? Rozmawiaj z odwagą, życzliwością i zaangażowaniem"
+authors:
+  - Łada Drozda
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Komunikacja i negocjacje
+  - Kompetencje osobiste
+book:
+  isbn: 9788328374140
+  image: books/wazslo.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-to-powiedziec-rozmawiaj-z-odwaga-zyczliwoscia-i-zaangazowaniem-lada-drozda,wazslo.htm#format/d
+ebook:
+  isbn: 9788328383715
+  image: books/wazslo.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-to-powiedziec-rozmawiaj-z-odwaga-zyczliwoscia-i-zaangazowaniem-lada-drozda,wazslo.htm#format/e
+audiobook:
+  isbn: 9788328381346
+  image: books/wazslo_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-to-powiedziec-rozmawiaj-z-odwaga-zyczliwoscia-i-zaangazowaniem-lada-drozda,wazslo.htm#format/3

@@ -1,0 +1,26 @@
+title: "Nie tłumacz się, działaj! Odkryj moc samodyscypliny"
+original_title: "No Excuses!: The Power of Self-Discipline"
+authors:
+  - Brian Tracy
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Kompetencje osobiste
+  - Motywacja
+book:
+  isbn: 9788328302488
+  image: books/nietlv.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/nie-tlumacz-sie-dzialaj-odkryj-moc-samodyscypliny-brian-tracy,nietlv.htm#format/d
+ebook:
+  isbn: 9788328326880
+  image: books/nietlv.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/nie-tlumacz-sie-dzialaj-odkryj-moc-samodyscypliny-brian-tracy,nietlv.htm#format/e
+audiobook:
+  isbn: 9788328327450
+  image: books/nietlv_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/nie-tlumacz-sie-dzialaj-odkryj-moc-samodyscypliny-brian-tracy,nietlv.htm#format/3

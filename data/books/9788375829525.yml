@@ -1,0 +1,25 @@
+title: "Prawa sukcesu. Tom V i Tom VI"
+original_title: "The Law Of Success"
+authors:
+  - Napoleon Hill
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Rozwój osobisty
+book:
+  isbn: 9788375829525
+  image: books/e_014p.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/prawa-sukcesu-tom-v-i-tom-vi-napoleon-hill,a_03ng.htm#format/d
+ebook:
+  isbn: 9788375829495
+  image: books/e_014p.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/prawa-sukcesu-tom-v-i-tom-vi-napoleon-hill,e_014p.htm#format/e
+audiobook:
+  isbn: 9788375829532
+  image: books/e_014p_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/prawa-sukcesu-tom-v-i-tom-vi-napoleon-hill,e_014p.htm#format/3

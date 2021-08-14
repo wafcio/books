@@ -1,0 +1,32 @@
+---
+title: Książki - Książki i kursy
+layout: book_layout
+---
+
+<div class="row">
+  <% books.each do |book| %>
+    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 px-1 py-1">
+      <div class="card" style="width: 145px;">
+        <%= link_to image_tag(book.book.image, class: "card-img-top"), book.book.urls.first[1], target: "_blank" %>
+        <div class="card-body">
+          <div class="text-center">
+            <p>
+              <% if book.formats.include?("book") %>
+                <%= partial "icons/book", locals: { active: active_book?(book, "book") } %>
+              <% end %>
+
+              <% if book.formats.include?("ebook") %>
+                <%= partial "icons/ebook", locals: { active: active_book?(book, "ebook") } %>
+              <% end %>
+
+              <% if book.formats.include?("audiobook") %>
+                <%= partial "icons/audiobook", locals: { active: active_book?(book, "audiobook") } %>
+              <% end %>
+            </p>
+          </div>
+          <h5 class="card-title"><%= book.title %></h5>
+        </div>
+      </div>
+    </div>
+  <% end %>
+</div>

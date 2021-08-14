@@ -1,0 +1,24 @@
+title: "Święty spokój. Instrukcja obsługi emocji"
+authors:
+  - Jarosław Gibas
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Rozwój osobisty
+book:
+  isbn: 9788328342408
+  image: books/swiety.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/swiety-spokoj-instrukcja-obslugi-emocji-jaroslaw-gibas,swiety.htm#format/d
+ebook:
+  isbn: 9788328351486
+  image: books/swiety.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/swiety-spokoj-instrukcja-obslugi-emocji-jaroslaw-gibas,swiety.htm#format/e
+audiobook:
+  isbn: 9788328350762
+  image: books/swiety_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/swiety-spokoj-instrukcja-obslugi-emocji-jaroslaw-gibas,swiety.htm#format/3

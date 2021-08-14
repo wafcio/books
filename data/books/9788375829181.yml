@@ -1,0 +1,25 @@
+title: "Prawa sukcesu. Tom III i Tom IV"
+original_title: "The Law Of Success"
+authors:
+  - Napoleon Hill
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Rozwój osobisty
+book:
+  isbn: 9788375829181
+  image: books/e_017j.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/prawa-sukcesu-tom-iii-i-tom-iv-napoleon-hill,a_03kg.htm#format/d
+ebook:
+  isbn: 9788375829167
+  image: books/e_017j.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/prawa-sukcesu-tom-iii-i-tom-iv-napoleon-hill,e_017j.htm#format/e
+audiobook:
+  isbn: 9788375829198
+  image: books/e_017j_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/prawa-sukcesu-tom-iii-i-tom-iv-napoleon-hill,e_017j.htm#format/3

@@ -1,0 +1,32 @@
+title: "Znajdź swoje DLACZEGO. Droga do poczucia spełnienia i wewnętrznej motywacji"
+original_title: "Find Your Why: A Practical Guide to Discovering Purpose for You and Your Team"
+authors:
+  - Simon Sinek
+  - David Mead
+  - Peter Docker
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Kompetencje osobiste
+  - Zarządzanie
+  - Zasoby ludzkie (HR)
+  - Przywództwo
+  - Motywacja
+  - Start-up
+book:
+  isbn: 9788328343917
+  image: books/znadla.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/znajdz-swoje-dlaczego-droga-do-poczucia-spelnienia-i-wewnetrznej-motywacji-simon-sinek-david-mead-peter-docker,znadla.htm#format/d
+ebook:
+  isbn: 9788328343924
+  image: books/znadla.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/znajdz-swoje-dlaczego-droga-do-poczucia-spelnienia-i-wewnetrznej-motywacji-simon-sinek-david-mead-peter-docker,znadla.htm#format/e
+audiobook:
+  isbn: 9788328343962
+  image: books/znadla_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/znajdz-swoje-dlaczego-droga-do-poczucia-spelnienia-i-wewnetrznej-motywacji-simon-sinek-david-mead-peter-docker,znadla.htm#format/3

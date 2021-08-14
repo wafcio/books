@@ -1,0 +1,28 @@
+title: "Zjedz tę żabę!"
+original_title: "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time"
+authors:
+  - Brian Tracy
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Obsługa klienta
+  - Kompetencje osobiste
+  - Zarządzanie
+  - Motywacja
+book:
+  isbn: 9788380872516
+  image: books/e_0zk1.jpeg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4854614/zjedz-te-zabe-21-metod-podnoszenia-wydajnosci-w-pracy-i-zwalczania-sklonnosci-do-zwlekania
+ebook:
+  isbn: 9788380876668
+  image: books/e_0zk1.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zjedz-te-zabe-brian-tracy,e_0zk1.htm#format/e
+audiobook:
+  isbn: 9788380876248
+  image: books/e_0zk1_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/zjedz-te-zabe-brian-tracy,e_0zk1.htm#format/3

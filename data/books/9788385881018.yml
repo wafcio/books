@@ -1,0 +1,25 @@
+title: "Jak zdobyć przyjaciół i zjednać sobie ludzi"
+original_title: "How to win friends and influence people"
+authors:
+  - Dale Carnegie
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Perswazja i NLP
+book:
+  isbn: 9788385881018
+  image: books/e_5807.jpeg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/50522/jak-zdobyc-przyjaciol-i-zjednac-sobie-ludzi
+ebook:
+  isbn: 9788362304776
+  image: books/e_5807.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-zdobyc-przyjaciol-i-zjednac-sobie-ludzi-dale-carnegie,e_5807.htm#format/e
+audiobook:
+  isbn: 9788362304868
+  image: books/e_5807_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-zdobyc-przyjaciol-i-zjednac-sobie-ludzi-dale-carnegie,e_5807.htm#format/3

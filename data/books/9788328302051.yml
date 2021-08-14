@@ -1,0 +1,30 @@
+title: "Psychologia szefa. Szef to zawód."
+authors:
+  - Wojciech Haman
+  - Jerzy Gut
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Zarządzanie
+  - Zasoby ludzkie (HR)
+  - Przywództwo
+  - Coaching
+book:
+  isbn: 9788328302051
+  image: books/psysz3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/psychologia-szefa-1-szef-to-zawod-wydanie-iii-rozszerzone-jerzy-gut-wojciech-haman,psysz3.htm#format/d
+ebook:
+  isbn: 9788328308886
+  image: books/psysz3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/psychologia-szefa-1-szef-to-zawod-wydanie-iii-rozszerzone-jerzy-gut-wojciech-haman,psysz3.htm#format/e
+audiobook:
+  isbn: 9788328313323
+  image: books/psysz3_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/psychologia-szefa-1-szef-to-zawod-wydanie-iii-rozszerzone-jerzy-gut-wojciech-haman,psysz3.htm#format/3

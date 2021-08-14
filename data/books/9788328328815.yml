@@ -1,0 +1,27 @@
+title: "Jesteś kozak! Uwierz w siebie i zacznij żyć pełnią życia"
+original_title: "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life"
+authors:
+  - Jen Sincero
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Motywacja
+book:
+  isbn: 9788328328815
+  image: books/jeskoz.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jestes-kozak-uwierz-w-siebie-i-zacznij-zyc-pelnia-zycia-jen-sincero,jeskoz.htm#format/d
+ebook:
+  isbn: 9788328328822
+  image: books/jeskoz.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jestes-kozak-uwierz-w-siebie-i-zacznij-zyc-pelnia-zycia-jen-sincero,jeskoz.htm#format/e
+audiobook:
+  isbn: 9788328338364
+  image: books/jeskoz_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jestes-kozak-uwierz-w-siebie-i-zacznij-zyc-pelnia-zycia-jen-sincero,jeskoz.htm#format/3

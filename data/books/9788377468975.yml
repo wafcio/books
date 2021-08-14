@@ -1,0 +1,24 @@
+title: "Mit przedsiębiorczości"
+authors:
+  - Cezary Głuch
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Ekonomia i finanse
+book:
+  isbn: 9788377468975
+  image: books/mit-przedsiebiorczosci.jpg
+  urls:
+    taniaksiazka: https://www.taniaksiazka.pl/mit-przedsiebiorczosci-dlaczego-wiekszosc-malych-firm-upada-i-jak-temu-zaradzic-michael-gerber-p-529139.html
+ebook:
+  isbn: 9788380870253
+  image: books/mit-przedsiebiorczosci.jpg
+  urls:
+    taniaksiazka: https://www.taniaksiazka.pl/ebook-mit-przedsiebiorczosci-mobi-epub-p-594448.html
+audiobook:
+  isbn: 9788377469309
+  image: books/mit-przedsiebiorczosci-3.jpg
+  urls:
+    taniaksiazka: https://www.taniaksiazka.pl/audiobook-mit-przedsiebiorczosci-mp3-p-551273.html

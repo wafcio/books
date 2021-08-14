@@ -1,0 +1,26 @@
+title: "Dobre nawyki. Zakochaj się w życiu na nowo"
+authors:
+  - Magdalena Kuszewska
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Rozwój osobisty
+book:
+  isbn: 9788328369306
+  image: books/prosna.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/dobre-nawyki-zakochaj-sie-w-zyciu-na-nowo-magdalena-kuszewska,prosna.htm#format/d
+ebook:
+  isbn: 9788328380905
+  image: books/prosna.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/dobre-nawyki-zakochaj-sie-w-zyciu-na-nowo-magdalena-kuszewska,prosna.htm#format/e
+audiobook:
+  isbn: 9788328372610
+  image: books/prosna_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/dobre-nawyki-zakochaj-sie-w-zyciu-na-nowo-magdalena-kuszewska,prosna.htm#format/3

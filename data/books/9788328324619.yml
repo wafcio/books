@@ -1,0 +1,24 @@
+title: "Jak pisać, żeby chcieli czytać (i kupować). Copywriting & Webwriting"
+authors:
+  - Artur Jabłoński
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Marketing
+book:
+  isbn: 9788328324619
+  image: books/jakpic.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-pisac-zeby-chcieli-czytac-i-kupowac-copywriting-webwriting-artur-jablonski,jakpic.htm#format/d
+ebook:
+  isbn: 9788328343283
+  image: books/jakpic.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-pisac-zeby-chcieli-czytac-i-kupowac-copywriting-webwriting-artur-jablonski,jakpic.htm#format/e
+audiobook:
+  isbn: 9788328354722
+  image: books/jakpic_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/jak-pisac-zeby-chcieli-czytac-i-kupowac-copywriting-webwriting-artur-jablonski,jakpic.htm#format/3

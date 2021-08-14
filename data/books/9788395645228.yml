@@ -1,0 +1,17 @@
+title: "Inteligentny Inwestor XXI wieku Tom II"
+authors:
+  - Cezary Głuch
+formats:
+  - book
+  - ebook
+categories:
+  - Poradniki
+book:
+  isbn: 9788395645228
+  image: books/inteligentny-inwestor-2.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4914570/inteligentny-inwestor-xxi-wieku---tom-ii
+ebook:
+  image: books/inteligentny-inwestor-2.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4914570/inteligentny-inwestor-xxi-wieku---tom-ii

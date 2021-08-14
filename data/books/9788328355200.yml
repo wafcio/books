@@ -1,0 +1,26 @@
+title: "Błękitny umysł. Myśl na odwrót, działaj na opak, poznaj nieznane!"
+authors:
+  - Klaudia Pingot
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Kompetencje osobiste
+  - Rozwój osobisty
+book:
+  isbn: 9788328355200
+  image: books/bleumy.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/blekitny-umysl-mysl-na-odwrot-dzialaj-na-opak-poznaj-nieznane-klaudia-pingot,bleumy.htm#format/d
+ebook:
+  isbn: 9788328363465
+  image: books/bleumy.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/blekitny-umysl-mysl-na-odwrot-dzialaj-na-opak-poznaj-nieznane-klaudia-pingot,bleumy.htm#format/e
+audiobook:
+  isbn: 9788328363472
+  image: books/bleumy_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/blekitny-umysl-mysl-na-odwrot-dzialaj-na-opak-poznaj-nieznane-klaudia-pingot,bleumy.htm#format/3

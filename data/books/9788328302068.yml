@@ -1,0 +1,28 @@
+title: "Psychologia szefa 2. Coaching narzędziowy"
+authors:
+  - Wojciech Haman
+  - Jerzy Gut
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Kompetencje osobiste
+  - Zarządzanie
+  - Zasoby ludzkie (HR)
+  - Coaching
+book:
+  isbn: 9788328302068
+  image: books/psy2co.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/psychologia-szefa-2-coaching-narzedziowy-jerzy-gut-wojciech-haman,psy2co.htm#format/d
+ebook:
+  isbn: 9788328308916
+  image: books/psy2co.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/psychologia-szefa-2-coaching-narzedziowy-jerzy-gut-wojciech-haman,psy2co.htm#format/e
+audiobook:
+  isbn: 9788328323209
+  image: books/psy2co_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/psychologia-szefa-2-coaching-narzedziowy-jerzy-gut-wojciech-haman,psy2co.htm#format/3

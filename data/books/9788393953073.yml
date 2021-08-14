@@ -1,0 +1,21 @@
+title: "Biblia Inwestowania"
+authors:
+  - Jan Fijor
+  - Cezary Głuch
+  - Lech Kaniuk
+  - Janusz Palikot
+  - Maciej Wieczorek
+formats:
+  - book
+  - ebook
+categories:
+  - Poradniki
+book:
+  isbn: 9788393953073
+  image: books/biblia-inwestowania.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4937212/biblia-inwestowania
+ebook:
+  image: books/biblia-inwestowania.jpg
+  urls:
+    lubimyczytac: https://lubimyczytac.pl/ksiazka/4937212/biblia-inwestowania
