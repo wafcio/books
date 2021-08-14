@@ -1,0 +1,26 @@
+title: "Technical Leadership. Od eksperta do lidera. Wydanie II poszerzone"
+authors:
+  - Mariusz Sieraczkiewicz
+formats:
+  - book
+  - ebook
+  - audiobook
+categories:
+  - Twoja kariera
+  - Zarządzanie
+  - Zarządzanie projektami
+book:
+  isbn: 9788328346109
+  image: books/techl2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/technical-leadership-od-eksperta-do-lidera-wydanie-ii-poszerzone-mariusz-sieraczkiewicz,techl2.htm#format/d
+ebook:
+  isbn: 9788328351875
+  image: books/techl2.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/technical-leadership-od-eksperta-do-lidera-wydanie-ii-poszerzone-mariusz-sieraczkiewicz,techl2.htm#format/e
+audiobook:
+  isbn: 9788328354166
+  image: books/techl2_3.jpeg
+  urls:
+    onepress: https://onepress.pl/ksiazki/technical-leadership-od-eksperta-do-lidera-wydanie-ii-poszerzone-mariusz-sieraczkiewicz,techl2.htm#format/3
