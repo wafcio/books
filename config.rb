@@ -1,6 +1,9 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+activate :minify_css
+activate :minify_javascript
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
@@ -13,6 +16,9 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 
+page "/icons/audiobook.html.erb"
+page "/icons/book.html.erb"
+page "/icons/ebook.html.erb"
 page "/books.html"
 page "/course_groups.html"
 # page "/courses.html"
