@@ -1,5 +1,7 @@
 require "yaml"
 
+require 'middleman-gh-pages'
+
 task :move_book do
   book = YAML.load_file("tmp/template.yml")
   FileUtils.cp("tmp/template.yml", "data/books/#{book["book"]["isbn"]}.yml")
